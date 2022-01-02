@@ -11,5 +11,7 @@ gem install rails
 
 Rails 7.0.0
 
+yarn add bootstrap jquery popper.js
+
 
 1. git clone https://github.com/Aggie-Pull-Day/Aggie-Pull-Day.git
